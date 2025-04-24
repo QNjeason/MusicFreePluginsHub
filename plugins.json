@@ -21,6 +21,11 @@
       "version": "0.0.2"
     },
     {
+      "name": "Navidrome",
+      "url": "https:\/\/gitee.com\/maotoumao\/MusicFreePlugins\/raw\/v0.1\/dist\/navidrome\/index.js",
+      "version": "0.0.0"
+    },
+    {
       "name": "suno",
       "url": "https:\/\/gitee.com\/maotoumao\/MusicFreePlugins\/raw\/v0.1\/dist\/suno\/index.js",
       "version": "0.0.0"
